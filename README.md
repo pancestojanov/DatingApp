@@ -1,0 +1,1 @@
+Developing a functional dating app using .NET Core, C# for back-end and Angular, Typescript,HTML, CSS for front-end development. Implemented authentication using JWT Authenticationtokens, data using Entity Framework Core and private messaging system.
